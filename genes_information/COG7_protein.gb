@@ -1,0 +1,176 @@
+LOCUS       NP_705831                770 aa            linear   PRI 13-NOV-2023
+DEFINITION  conserved oligomeric Golgi complex subunit 7 [Homo sapiens].
+ACCESSION   NP_705831
+VERSION     NP_705831.1
+DBSOURCE    REFSEQ: accession NM_153603.4
+KEYWORDS    RefSeq; MANE Select.
+SOURCE      Homo sapiens (human)
+  ORGANISM  Homo sapiens
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Hominidae; Homo.
+REFERENCE   1  (residues 1 to 770)
+  AUTHORS   Luck K, Kim DK, Lambourne L, Spirohn K, Begg BE, Bian W, Brignall
+            R, Cafarelli T, Campos-Laborie FJ, Charloteaux B, Choi D, Cote AG,
+            Daley M, Deimling S, Desbuleux A, Dricot A, Gebbia M, Hardy MF,
+            Kishore N, Knapp JJ, Kovacs IA, Lemmens I, Mee MW, Mellor JC,
+            Pollis C, Pons C, Richardson AD, Schlabach S, Teeking B, Yadav A,
+            Babor M, Balcha D, Basha O, Bowman-Colin C, Chin SF, Choi SG,
+            Colabella C, Coppin G, D'Amata C, De Ridder D, De Rouck S,
+            Duran-Frigola M, Ennajdaoui H, Goebels F, Goehring L, Gopal A,
+            Haddad G, Hatchi E, Helmy M, Jacob Y, Kassa Y, Landini S, Li R, van
+            Lieshout N, MacWilliams A, Markey D, Paulson JN, Rangarajan S,
+            Rasla J, Rayhan A, Rolland T, San-Miguel A, Shen Y, Sheykhkarimli
+            D, Sheynkman GM, Simonovsky E, Tasan M, Tejeda A, Tropepe V,
+            Twizere JC, Wang Y, Weatheritt RJ, Weile J, Xia Y, Yang X,
+            Yeger-Lotem E, Zhong Q, Aloy P, Bader GD, De Las Rivas J, Gaudet S,
+            Hao T, Rak J, Tavernier J, Hill DE, Vidal M, Roth FP and Calderwood
+            MA.
+  TITLE     A reference map of the human binary protein interactome
+  JOURNAL   Nature 580 (7803), 402-408 (2020)
+   PUBMED   32296183
+REFERENCE   2  (residues 1 to 770)
+  AUTHORS   Fragoza R, Das J, Wierbowski SD, Liang J, Tran TN, Liang S, Beltran
+            JF, Rivera-Erick CA, Ye K, Wang TY, Yao L, Mort M, Stenson PD,
+            Cooper DN, Wei X, Keinan A, Schimenti JC, Clark AG and Yu H.
+  TITLE     Extensive disruption of protein interactions by genetic variants
+            across the allele frequency spectrum in human populations
+  JOURNAL   Nat Commun 10 (1), 4141 (2019)
+   PUBMED   31515488
+  REMARK    Publication Status: Online-Only
+REFERENCE   3  (residues 1 to 770)
+  AUTHORS   Climer LK, Pokrovskaya ID, Blackburn JB and Lupashin VV.
+  TITLE     Membrane detachment is not essential for COG complex function
+  JOURNAL   Mol Biol Cell 29 (8), 964-974 (2018)
+   PUBMED   29467253
+  REMARK    GeneRIF: TMEM-COG4, COG7 and COG8 subunits restore endogenous COG
+            localization to the Golgi membranes
+REFERENCE   4  (residues 1 to 770)
+  AUTHORS   Bailey Blackburn J, Pokrovskaya I, Fisher P, Ungar D and Lupashin
+            VV.
+  TITLE     COG Complex Complexities: Detailed Characterization of a Complete
+            Set of HEK293T Cells Lacking Individual COG Subunits
+  JOURNAL   Front Cell Dev Biol 4, 23 (2016)
+   PUBMED   27066481
+  REMARK    Publication Status: Online-Only
+REFERENCE   5  (residues 1 to 770)
+  AUTHORS   Yang X, Coulombe-Huntington J, Kang S, Sheynkman GM, Hao T,
+            Richardson A, Sun S, Yang F, Shen YA, Murray RR, Spirohn K, Begg
+            BE, Duran-Frigola M, MacWilliams A, Pevzner SJ, Zhong Q, Wanamaker
+            SA, Tam S, Ghamsari L, Sahni N, Yi S, Rodriguez MD, Balcha D, Tan
+            G, Costanzo M, Andrews B, Boone C, Zhou XJ, Salehi-Ashtiani K,
+            Charloteaux B, Chen AA, Calderwood MA, Aloy P, Roth FP, Hill DE,
+            Iakoucheva LM, Xia Y and Vidal M.
+  TITLE     Widespread Expansion of Protein Interaction Capabilities by
+            Alternative Splicing
+  JOURNAL   Cell 164 (4), 805-817 (2016)
+   PUBMED   26871637
+REFERENCE   6  (residues 1 to 770)
+  AUTHORS   Loh E and Hong W.
+  TITLE     The binary interacting network of the conserved oligomeric Golgi
+            tethering complex
+  JOURNAL   J Biol Chem 279 (23), 24640-24648 (2004)
+   PUBMED   15047703
+REFERENCE   7  (residues 1 to 770)
+  AUTHORS   Clark HF, Gurney AL, Abaya E, Baker K, Baldwin D, Brush J, Chen J,
+            Chow B, Chui C, Crowley C, Currell B, Deuel B, Dowd P, Eaton D,
+            Foster J, Grimaldi C, Gu Q, Hass PE, Heldens S, Huang A, Kim HS,
+            Klimowski L, Jin Y, Johnson S, Lee J, Lewis L, Liao D, Mark M,
+            Robbie E, Sanchez C, Schoenfeld J, Seshagiri S, Simmons L, Singh J,
+            Smith V, Stinson J, Vagts A, Vandlen R, Watanabe C, Wieand D, Woods
+            K, Xie MH, Yansura D, Yi S, Yu G, Yuan J, Zhang M, Zhang Z, Goddard
+            A, Wood WI, Godowski P and Gray A.
+  TITLE     The secreted protein discovery initiative (SPDI), a large-scale
+            effort to identify novel human secreted and transmembrane proteins:
+            a bioinformatics assessment
+  JOURNAL   Genome Res 13 (10), 2265-2270 (2003)
+   PUBMED   12975309
+  REMARK    Erratum:[Genome Res. 2003 Dec;13(12):2759]
+REFERENCE   8  (residues 1 to 770)
+  AUTHORS   Loh E and Hong W.
+  TITLE     Sec34 is implicated in traffic from the endoplasmic reticulum to
+            the Golgi and exists in a complex with GTC-90 and ldlBp
+  JOURNAL   J Biol Chem 277 (24), 21955-21961 (2002)
+   PUBMED   11929878
+REFERENCE   9  (residues 1 to 770)
+  AUTHORS   Ungar D, Oka T, Brittle EE, Vasile E, Lupashin VV, Chatterton JE,
+            Heuser JE, Krieger M and Waters MG.
+  TITLE     Characterization of a mammalian Golgi-localized protein complex,
+            COG, that is required for normal Golgi morphology and function
+  JOURNAL   J Cell Biol 157 (3), 405-415 (2002)
+   PUBMED   11980916
+REFERENCE   10 (residues 1 to 770)
+  AUTHORS   Sparks,S.E. and Krasnewich,D.M.
+  TITLE     Congenital Disorders of N-Linked Glycosylation and Multiple Pathway
+            Overview
+  JOURNAL   (in) Adam MP, Feldman J, Mirzaa GM, Pagon RA, Wallace SE, Bean LJH,
+            Gripp KW and Amemiya A (Eds.);
+            GENEREVIEWS(R);
+            (1993)
+   PUBMED   20301507
+COMMENT     REVIEWED REFSEQ: This record has been curated by NCBI staff. The
+            reference sequence was derived from DB444997.1, BC037563.1 and
+            R54036.1.
+            This sequence is a reference standard in the RefSeqGene project.
+            
+            Summary: The protein encoded by this gene resides in the golgi, and
+            constitutes one of the 8 subunits of the conserved oligomeric Golgi
+            (COG) complex, which is required for normal golgi morphology and
+            localization. Mutations in this gene are associated with the
+            congenital disorder of glycosylation type IIe.[provided by RefSeq,
+            May 2010].
+            
+            Publication Note:  This RefSeq record includes a subset of the
+            publications that are available for this gene. Please see the Gene
+            record to access additional publications.
+            
+            ##Evidence-Data-START##
+            Transcript exon combination :: BC037563.1, SRR1803615.220993.1
+                                           [ECO:0000332]
+            RNAseq introns              :: mixed sample support SAMEA1965299,
+                                           SAMEA1966682 [ECO:0006172]
+            ##Evidence-Data-END##
+            
+            ##RefSeq-Attributes-START##
+            MANE Ensembl match     :: ENST00000307149.10/ ENSP00000305442.5
+            RefSeq Select criteria :: based on conservation, expression,
+                                      longest protein
+            ##RefSeq-Attributes-END##
+FEATURES             Location/Qualifiers
+     source          1..770
+                     /organism="Homo sapiens"
+                     /db_xref="taxon:9606"
+                     /chromosome="16"
+                     /map="16p12.2"
+     Protein         1..770
+                     /product="conserved oligomeric Golgi complex subunit 7"
+                     /note="COG complex subunit 7"
+                     /calculated_mol_wt=86213
+     Region          2..766
+                     /region_name="COG7"
+                     /note="Golgi complex component 7 (COG7); pfam10191"
+                     /db_xref="CDD:431125"
+     CDS             1..770
+                     /gene="COG7"
+                     /gene_synonym="CDG2E"
+                     /coded_by="NM_153603.4:196..2508"
+                     /db_xref="CCDS:CCDS10610.1"
+                     /db_xref="GeneID:91949"
+                     /db_xref="HGNC:HGNC:18622"
+                     /db_xref="MIM:606978"
+ORIGIN      
+        1 mdfskfladd fdvkewinaa fragskeaas gkadghaatl vmklqlfiqe vnhaveetsh
+       61 qalqnmpkvl rdvealkqea sflkeqmilv kedikkfeqd tsqsmqvlve idqvksrmql
+      121 aaeslqeadk wstlsadiee tfktqdiavi sakltgmqns lmmlvdtpdy sekcvhleal
+      181 knrlealasp qivaaftsqa vdqskvfvkv fteidrmpql layyykchkv qllaawqelc
+      241 qsdlsldrql tglydallga whtqiqwatq vfqkphevvm vlliqtlgal mpslpsclsn
+      301 gveragpeqe ltrllefyda tahfakglem allphlhehn lvkvtelvda vydpykpyql
+      361 kygdmeesnl liqmsavple hgevidcvqe lshsvnklfg lasaavdrcv rftnglgtcg
+      421 llsalkslfa kyvsdftstl qsirkkckld hippnslfqe dwtafqnsir iiatcgellr
+      481 hcgdfeqqla nrilstagky lsdscsprsl agfqesiltd kknsaknpwq eynylqkdnp
+      541 aeyaslmeil ytlkekgssn hnllaapraa ltrlnqqahq lafdsvflri kqqllliskm
+      601 dswntagige tltdelpafs ltpleyisni gqyimslpln lepfvtqeds alelalhagk
+      661 lpfppeqgde lpeldnmadn wlgsiaratm qtycdailqi pelsphsakq latdidylin
+      721 vmdalglqps rtlqhivtll ktrpedyrqv skglprrlat tvatmrsvny
+//
+

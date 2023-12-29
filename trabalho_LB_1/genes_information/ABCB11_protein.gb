@@ -1,0 +1,292 @@
+LOCUS       NP_003733               1321 aa            linear   PRI 21-NOV-2023
+DEFINITION  bile salt export pump [Homo sapiens].
+ACCESSION   NP_003733
+VERSION     NP_003733.2
+DBSOURCE    REFSEQ: accession NM_003742.4
+KEYWORDS    RefSeq; MANE Select.
+SOURCE      Homo sapiens (human)
+  ORGANISM  Homo sapiens
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Hominidae; Homo.
+REFERENCE   1  (residues 1 to 1321)
+  AUTHORS   Liu H, Irobalieva RN, Kowal J, Ni D, Nosol K, Bang-Sorensen R,
+            Lancien L, Stahlberg H, Stieger B and Locher KP.
+  TITLE     Structural basis of bile salt extrusion and small-molecule
+            inhibition in human BSEP
+  JOURNAL   Nat Commun 14 (1), 7296 (2023)
+   PUBMED   37949847
+  REMARK    GeneRIF: Structural basis of bile salt extrusion and small-molecule
+            inhibition in human BSEP.
+            Publication Status: Online-Only
+REFERENCE   2  (residues 1 to 1321)
+  AUTHORS   Pfister ED, Jaeger VK, Karch A, Shay D, Schukfeh N, Ohlendorf J,
+            Junge N, Goldschmidt I, Stalke A, Keitel-Anselmino V and Baumann U.
+  TITLE     Native liver survival in bile salt export pump deficiency: results
+            of a retrospective cohort study
+  JOURNAL   Hepatol Commun 7 (4), e0092 (2023)
+   PUBMED   36995996
+  REMARK    GeneRIF: Native liver survival in bile salt export pump deficiency:
+            results of a retrospective cohort study.
+            Publication Status: Online-Only
+REFERENCE   3  (residues 1 to 1321)
+  AUTHORS   Nayagam JS, Foskett P, Strautnieks S, Agarwal K, Miquel R, Joshi D
+            and Thompson RJ.
+  TITLE     Clinical phenotype of adult-onset liver disease in patients with
+            variants in ABCB4, ABCB11, and ATP8B1
+  JOURNAL   Hepatol Commun 6 (10), 2654-2664 (2022)
+   PUBMED   35894240
+  REMARK    GeneRIF: Clinical phenotype of adult-onset liver disease in
+            patients with variants in ABCB4, ABCB11, and ATP8B1.
+REFERENCE   4  (residues 1 to 1321)
+  AUTHORS   Selim N, Omair H, El-Karaksy H, Fathy M, Mahmoud E, Baroudy S,
+            Fathy M and Yassin N.
+  TITLE     A study of exons 14, 15, and 24 of the ABCB11 gene in Egyptian
+            children with normal GGT cholestasis
+  JOURNAL   Arab J Gastroenterol 23 (1), 15-19 (2022)
+   PUBMED   35153175
+  REMARK    GeneRIF: A study of exons 14, 15, and 24 of the ABCB11 gene in
+            Egyptian children with normal GGT cholestasis.
+REFERENCE   5  (residues 1 to 1321)
+  AUTHORS   Wang R, Salem M, Yousef IM, Tuchweber B, Lam P, Childs SJ, Helgason
+            CD, Ackerley C, Phillips MJ and Ling V.
+  TITLE     Targeted inactivation of sister of P-glycoprotein gene (spgp) in
+            mice results in nonprogressive but persistent intrahepatic
+            cholestasis
+  JOURNAL   Proc Natl Acad Sci U S A 98 (4), 2011-2016 (2001)
+   PUBMED   11172067
+REFERENCE   6  (residues 1 to 1321)
+  AUTHORS   Jansen PL, Strautnieks SS, Jacquemin E, Hadchouel M, Sokal EM,
+            Hooiveld GJ, Koning JH, De Jager-Krikken A, Kuipers F, Stellaard F,
+            Bijleveld CM, Gouw A, Van Goor H, Thompson RJ and Muller M.
+  TITLE     Hepatocanalicular bile salt export pump deficiency in patients with
+            progressive familial intrahepatic cholestasis
+  JOURNAL   Gastroenterology 117 (6), 1370-1379 (1999)
+   PUBMED   10579978
+REFERENCE   7  (residues 1 to 1321)
+  AUTHORS   Strautnieks SS, Bull LN, Knisely AS, Kocoshis SA, Dahl N, Arnell H,
+            Sokal E, Dahan K, Childs S, Ling V, Tanner MS, Kagalwalla AF,
+            Nemeth A, Pawlowska J, Baker A, Mieli-Vergani G, Freimer NB,
+            Gardiner RM and Thompson RJ.
+  TITLE     A gene encoding a liver-specific ABC transporter is mutated in
+            progressive familial intrahepatic cholestasis
+  JOURNAL   Nat Genet 20 (3), 233-238 (1998)
+   PUBMED   9806540
+REFERENCE   8  (residues 1 to 1321)
+  AUTHORS   Gerloff T, Stieger B, Hagenbuch B, Madon J, Landmann L, Roth J,
+            Hofmann AF and Meier PJ.
+  TITLE     The sister of P-glycoprotein represents the canalicular bile salt
+            export pump of mammalian liver
+  JOURNAL   J Biol Chem 273 (16), 10046-10050 (1998)
+   PUBMED   9545351
+REFERENCE   9  (residues 1 to 1321)
+  AUTHORS   Amendola,M. and Squires,J.E.
+  TITLE     Pediatric Genetic Cholestatic Liver Disease Overview
+  JOURNAL   (in) Adam MP, Feldman J, Mirzaa GM, Pagon RA, Wallace SE, Bean LJH,
+            Gripp KW and Amemiya A (Eds.);
+            GENEREVIEWS(R);
+            (1993)
+   PUBMED   36108118
+REFERENCE   10 (residues 1 to 1321)
+  AUTHORS   Bull,L.N., Morotti,R. and Squires,J.E.
+  TITLE     ATP8B1 Deficiency
+  JOURNAL   (in) Adam MP, Feldman J, Mirzaa GM, Pagon RA, Wallace SE, Bean LJH,
+            Gripp KW and Amemiya A (Eds.);
+            GENEREVIEWS(R);
+            (1993)
+   PUBMED   20301474
+COMMENT     REVIEWED REFSEQ: This record has been curated by NCBI staff. The
+            reference sequence was derived from AC008177.3, AF091582.1,
+            AC069137.6 and CB161524.1.
+            This sequence is a reference standard in the RefSeqGene project.
+            
+            On Jun 21, 2002 this sequence version replaced NP_003733.1.
+            
+            Summary: The membrane-associated protein encoded by this gene is a
+            member of the superfamily of ATP-binding cassette (ABC)
+            transporters. ABC proteins transport various molecules across
+            extra- and intra-cellular membranes. ABC genes are divided into
+            seven distinct subfamilies (ABC1, MDR/TAP, MRP, ALD, OABP, GCN20,
+            White). This protein is a member of the MDR/TAP subfamily. Members
+            of the MDR/TAP subfamily are involved in multidrug resistance. The
+            protein encoded by this gene is the major canalicular bile salt
+            export pump in man. Mutations in this gene cause a form of
+            progressive familial intrahepatic cholestases which are a group of
+            inherited disorders with severe cholestatic liver disease from
+            early infancy. [provided by RefSeq, Jul 2008].
+            
+            Sequence Note: This RefSeq record was created from transcript and
+            genomic sequence data to make the sequence consistent with the
+            reference genome assembly. The genomic coordinates used for the
+            transcript record were based on transcript alignments.
+            
+            Publication Note:  This RefSeq record includes a subset of the
+            publications that are available for this gene. Please see the Gene
+            record to access additional publications.
+            
+            ##Evidence-Data-START##
+            Transcript exon combination :: AF091582.1, AF136523.1 [ECO:0000332]
+            RNAseq introns              :: mixed sample support SAMEA1965299,
+                                           SAMEA1966682 [ECO:0006172]
+            ##Evidence-Data-END##
+            
+            ##RefSeq-Attributes-START##
+            MANE Ensembl match     :: ENST00000650372.1/ ENSP00000497931.1
+            RefSeq Select criteria :: based on manual assertion, conservation,
+                                      expression
+            ##RefSeq-Attributes-END##
+FEATURES             Location/Qualifiers
+     source          1..1321
+                     /organism="Homo sapiens"
+                     /db_xref="taxon:9606"
+                     /chromosome="2"
+                     /map="2q31.1"
+     Protein         1..1321
+                     /product="bile salt export pump"
+                     /note="progressive familial intrahepatic cholestasis 2;
+                     ABC member 16, MDR/TAP subfamily; sister p-glycoprotein;
+                     ATP-binding cassette sub-family B member 11; ATP-binding
+                     cassette, sub-family B (MDR/TAP), member 11"
+                     /calculated_mol_wt=146277
+     Region          16..37
+                     /region_name="Disordered.
+                     /evidence=ECO:0000256|SAM:MobiDB-lite"
+                     /note="propagated from UniProtKB/Swiss-Prot (O95342.2)"
+     Region          21..1314
+                     /region_name="PTZ00265"
+                     /note="multidrug resistance protein (mdr1); Provisional"
+                     /db_xref="CDD:240339"
+     Site            63..83
+                     /site_type="transmembrane region"
+                     /note="propagated from UniProtKB/Swiss-Prot (O95342.2)"
+     Site            109
+                     /site_type="glycosylation"
+                     /note="N-linked (GlcNAc...) asparagine.
+                     /evidence=ECO:0000269|PubMed:17082223; propagated from
+                     UniProtKB/Swiss-Prot (O95342.2)"
+     Site            116
+                     /site_type="glycosylation"
+                     /note="N-linked (GlcNAc...) asparagine.
+                     /evidence=ECO:0000269|PubMed:17082223; propagated from
+                     UniProtKB/Swiss-Prot (O95342.2)"
+     Site            122
+                     /site_type="glycosylation"
+                     /note="N-linked (GlcNAc...) asparagine.
+                     /evidence=ECO:0000269|PubMed:17082223; propagated from
+                     UniProtKB/Swiss-Prot (O95342.2)"
+     Site            125
+                     /site_type="glycosylation"
+                     /note="N-linked (GlcNAc...) asparagine.
+                     /evidence=ECO:0000269|PubMed:17082223; propagated from
+                     UniProtKB/Swiss-Prot (O95342.2)"
+     Site            148..168
+                     /site_type="transmembrane region"
+                     /note="propagated from UniProtKB/Swiss-Prot (O95342.2)"
+     Site            216..236
+                     /site_type="transmembrane region"
+                     /note="propagated from UniProtKB/Swiss-Prot (O95342.2)"
+     Site            241..261
+                     /site_type="transmembrane region"
+                     /note="propagated from UniProtKB/Swiss-Prot (O95342.2)"
+     Site            320..340
+                     /site_type="transmembrane region"
+                     /note="propagated from UniProtKB/Swiss-Prot (O95342.2)"
+     Site            354..374
+                     /site_type="transmembrane region"
+                     /note="propagated from UniProtKB/Swiss-Prot (O95342.2)"
+     Site            586
+                     /site_type="phosphorylation"
+                     /note="Phosphothreonine.
+                     /evidence=ECO:0007744|PubMed:24275569; propagated from
+                     UniProtKB/Swiss-Prot (O95342.2)"
+     Site            587
+                     /site_type="phosphorylation"
+                     /note="Phosphoserine.
+                     /evidence=ECO:0007744|PubMed:24275569; propagated from
+                     UniProtKB/Swiss-Prot (O95342.2)"
+     Region          651..672
+                     /region_name="Interaction with HAX1.
+                     /evidence=ECO:0000250"
+                     /note="propagated from UniProtKB/Swiss-Prot (O95342.2)"
+     Site            690
+                     /site_type="phosphorylation"
+                     /note="Phosphoserine.
+                     /evidence=ECO:0000250|UniProtKB:Q9QY30; propagated from
+                     UniProtKB/Swiss-Prot (O95342.2)"
+     Site            701
+                     /site_type="phosphorylation"
+                     /note="Phosphoserine.
+                     /evidence=ECO:0000250|UniProtKB:O70127; propagated from
+                     UniProtKB/Swiss-Prot (O95342.2)"
+     Site            704
+                     /site_type="phosphorylation"
+                     /note="Phosphoserine.
+                     /evidence=ECO:0007744|PubMed:24275569; propagated from
+                     UniProtKB/Swiss-Prot (O95342.2)"
+     Site            756..776
+                     /site_type="transmembrane region"
+                     /note="propagated from UniProtKB/Swiss-Prot (O95342.2)"
+     Site            795..815
+                     /site_type="transmembrane region"
+                     /note="propagated from UniProtKB/Swiss-Prot (O95342.2)"
+     Site            870..890
+                     /site_type="transmembrane region"
+                     /note="propagated from UniProtKB/Swiss-Prot (O95342.2)"
+     Site            891..911
+                     /site_type="transmembrane region"
+                     /note="propagated from UniProtKB/Swiss-Prot (O95342.2)"
+     Site            980..1000
+                     /site_type="transmembrane region"
+                     /note="propagated from UniProtKB/Swiss-Prot (O95342.2)"
+     Site            1012..1032
+                     /site_type="transmembrane region"
+                     /note="propagated from UniProtKB/Swiss-Prot (O95342.2)"
+     Site            1214
+                     /site_type="phosphorylation"
+                     /note="Phosphoserine.
+                     /evidence=ECO:0007744|PubMed:24275569; propagated from
+                     UniProtKB/Swiss-Prot (O95342.2)"
+     Region          1311..1314
+                     /region_name="Mediates internalization from the plasma
+                     membrane. /evidence=ECO:0000269|PubMed:22262466"
+                     /note="propagated from UniProtKB/Swiss-Prot (O95342.2)"
+     Site            1321
+                     /site_type="phosphorylation"
+                     /note="Phosphoserine.
+                     /evidence=ECO:0000250|UniProtKB:O70127; propagated from
+                     UniProtKB/Swiss-Prot (O95342.2)"
+     CDS             1..1321
+                     /gene="ABCB11"
+                     /gene_synonym="ABC16; BRIC2; BSEP; PFIC-2; PFIC2; PGY4;
+                     SPGP"
+                     /coded_by="NM_003742.4:128..4093"
+                     /db_xref="CCDS:CCDS46444.1"
+                     /db_xref="GeneID:8647"
+                     /db_xref="HGNC:HGNC:42"
+                     /db_xref="MIM:603201"
+ORIGIN      
+        1 msdsvilrsi kkfgeendgf esdksynndk ksrlqdekkg dgvrvgffql frfssstdiw
+       61 lmfvgslcaf lhgiaqpgvl lifgtmtdvf idydvelqel qipgkacvnn tivwtnssln
+      121 qnmtngtrcg llniesemik fasyyagiav avlitgyiqi cfwviaaarq iqkmrkfyfr
+      181 rimrmeigwf dcnsvgelnt rfsddinkin daiadqmalf iqrmtsticg fllgffrgwk
+      241 ltlviisvsp ligigaatig lsvskftdye lkayakagvv adevissmrt vaafggekre
+      301 veryeknlvf aqrwgirkgi vmgfftgfvw cliflcyala fwygstlvld egeytpgtlv
+      361 qiflsvivga lnlgnaspcl eafatgraaa tsifetidrk piidcmsedg ykldrikgei
+      421 efhnvtfhyp srpevkilnd lnmvikpgem talvgpsgag kstalqliqr fydpcegmvt
+      481 vdghdirsln iqwlrdqigi veqepvlfst tiaenirygr edatmedivq aakeanaynf
+      541 imdlpqqfdt lvgegggqms ggqkqrvaia ralirnpkil lldmatsald neseamvqev
+      601 lskiqhghti isvahrlstv raadtiigfe hgtavergth eellerkgvy ftlvtlqsqg
+      661 nqalneedik dateddmlar tfsrgsyqds lrasirqrsk sqlsylvhep plavvdhkst
+      721 yeedrkdkdi pvqeevepap vrrilkfsap ewpymlvgsv gaavngtvtp lyaflfsqil
+      781 gtfsipdkee qrsqingvcl lfvamgcvsl ftqflqgyaf aksgelltkr lrkfgframl
+      841 gqdiawfddl rnspgalttr latdasqvqg aagsqigmiv nsftnvtvam iiafsfswkl
+      901 slvilcffpf lalsgatqtr mltgfasrdk qalemvgqit nealsnirtv agigkerrfi
+      961 ealetelekp fktaiqkani ygfcfafaqc imfiansasy ryggylisne glhfsyvfrv
+     1021 isavvlsata lgrafsytps yakakisaar ffqlldrqpp isvyntagek wdnfqgkidf
+     1081 vdckftypsr pdsqvlngls vsispgqtla fvgssgcgks tsiqllerfy dpdqgkvmid
+     1141 ghdskkvnvq flrsnigivs qepvlfacsi mdnikygdnt keipmervia aakqaqlhdf
+     1201 vmslpekyet nvgsqgsqls rgekqriaia raivrdpkil lldeatsald tesektvqva
+     1261 ldkaregrtc iviahrlsti qnadiiavma qgvviekgth eelmaqkgay yklvttgspi
+     1321 s
+//
+

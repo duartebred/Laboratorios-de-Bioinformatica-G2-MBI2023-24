@@ -1,6 +1,6 @@
 from Bio import Entrez
 
-Entrez.email = "pg53501@alunos.uminho.pt" 
+Entrez.email = "pg53501@alunos.uminho.pt"
 
 genes=["ABCB11","COG7","EMCN", "ITIH5L"] #genes em estudo
 nucleotide_id=["NG_007374.2","NG_021287.1","NA","NG_013240.1"] # informação a nível do genoma sobre o respetivo gene
@@ -15,19 +15,19 @@ for I in range(len(genes)):
         pass
     else:
         handle = Entrez.efetch(db="nucleotide", id=nucleotide_id[I], rettype="gb", retmode="text")
-        doc=open(genes[I]+".gb","w")
+        doc=open(f'genes_information\{genes[I]}.gb',"w")
         doc.writelines(handle)
         doc.close()
         handle.close()
 
     handle = Entrez.efetch(db="nucleotide", id=mRNA_id[I], rettype="gb", retmode="text")
-    doc=open(genes[I]+"_mRNA.gb","w")
+    doc=open(f'genes_information\{genes[I]}_mRNA.gb',"w")
     doc.writelines(handle)
     doc.close()
     handle.close()
 
     handle = Entrez.efetch(db="Protein", id=protein_id[I], rettype="gb", retmode="text")
-    doc=open(genes[I]+"_protein.gb","w")
+    doc=open(f'genes_information\{genes[I]}genes[I]_protein.gb',"w")
     doc.writelines(handle)
     doc.close()
     handle.close()
