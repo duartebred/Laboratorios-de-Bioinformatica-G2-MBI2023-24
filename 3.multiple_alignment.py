@@ -12,7 +12,6 @@ for gene, blast_file in zip(genes, blast_files):
 
     sequences = []
     id_counts = {}
-
     for result in blast_results:
         for alignment in result.alignments:
             for hsp in alignment.hsps:
@@ -27,7 +26,6 @@ for gene, blast_file in zip(genes, blast_files):
                 sequence = f">{sequence_id}\n{hsp.sbjct}\n"
                 sequences.append(sequence)
 
-
     fasta_file_path = f"{gene}_aligned.fasta"
     with open(fasta_file_path, "w") as fasta_file:
         fasta_file.writelines(sequences)
@@ -35,7 +33,6 @@ for gene, blast_file in zip(genes, blast_files):
     # Perform multiple sequence alignment using Clustal Omega
     clustalomega_cline = ClustalOmegaCommandline("C:/Users/joaop/Desktop/clustal-omega-1.2.2-win64/clustalo.exe", infile=fasta_file_path, outfile=f"{gene}_aligned.fasta", force=True)
     clustalomega_cline()
-
     print(f"Alignment for {gene} saved to {gene}_aligned.fasta")
 
     # Read the aligned sequences
@@ -52,5 +49,4 @@ for gene, blast_file in zip(genes, blast_files):
     # Save the phylogenetic tree
     tree_file_path = f"{gene}_phylogenetic_tree.newick"
     Phylo.write(tree, tree_file_path, "newick")
-
     print(f"Phylogenetic tree for {gene} saved to {tree_file_path}")
