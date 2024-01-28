@@ -24,11 +24,10 @@ for gene, blast_file in zip(genes, blast_files):
                 else:
                     id_counts[sequence_id] = 1
 
-                # Include the modified sequence name in the aligned file
                 sequence = f">{sequence_id}\n{hsp.sbjct}\n"
                 sequences.append(sequence)
 
-    # Write sequences to a temporary file
+
     fasta_file_path = f"{gene}_aligned.fasta"
     with open(fasta_file_path, "w") as fasta_file:
         fasta_file.writelines(sequences)
