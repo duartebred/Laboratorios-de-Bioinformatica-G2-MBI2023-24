@@ -2,6 +2,7 @@ from Bio.Blast import NCBIXML
 from Bio.Align.Applications import ClustalOmegaCommandline
 from Bio import Phylo, AlignIO
 from Bio.Phylo.TreeConstruction import DistanceCalculator, DistanceTreeConstructor
+import os
 
 genes = ["ABCB11", "COG7", "EMCN_2", "ITIH5L"]
 blast_files = [f"{gene}_blast.xml" for gene in genes]
@@ -31,7 +32,10 @@ for gene, blast_file in zip(genes, blast_files):
         fasta_file.writelines(sequences)
 
     # Perform multiple sequence alignment using Clustal Omega
-    clustalomega_cline = ClustalOmegaCommandline("C:/Users/joaop/Desktop/clustal-omega/clustalo.exe", infile=fasta_file_path, outfile=f"{gene}_aligned.fasta", force=True)
+    script_directory = os.path.dirname(os.path.abspath(__file__))
+    clustalomega_exe_path = os.path.join(script_directory, "clustal-omega/clustalo.exe")
+    
+    clustalomega_cline = ClustalOmegaCommandline(clustalomega_exe_path, infile=fasta_file_path, outfile=f"{gene}_aligned.fasta", force=True)
     clustalomega_cline()
     print(f"Alignment for {gene} saved to {gene}_aligned.fasta")
 
