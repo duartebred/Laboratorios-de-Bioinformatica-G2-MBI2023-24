@@ -4,7 +4,7 @@
 
 Repositório criado por:
 - [Duarte Velho](https://github.com/duartebred) (pg53841)
-- Joana Lopes (pg53498)
+- [Joana Lopes](https://github.com/joanalopes0711) (pg53498)
 - [João Ferreira](https://github.com/B-Neil) (pg52182)
 - [Ricardo Oliveira](https://github.com/ricardofoliveira61) (pg53501)
 
