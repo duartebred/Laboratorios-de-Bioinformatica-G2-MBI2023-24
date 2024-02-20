@@ -1,6 +1,7 @@
 # Laboratórios de Bioinformática, 2023/24
 
 **Grupo 2**
+
 Repositório criado por:
 - Duarte Velho (pg53841)
 - Joana Lopes (pg53498)
