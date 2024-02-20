@@ -9,4 +9,5 @@ Este repositório foi criado no ambito da UC laboratórios de Bioinformática e 
 bem como para armazenamento dos resultados produzidos por cada script.
 A análise dos resultados encontra-se no padlet criado pelo grupo
 
-link padlet: https://padlet.com/duartealvesvelho/laborat-rios-de-bioinform-tica-d141frkn4vb9fxxo
+Link para o Padlet do grupo
+- https://padlet.com/duartealvesvelho/laborat-rios-de-bioinform-tica-d141frkn4vb9fxxo
